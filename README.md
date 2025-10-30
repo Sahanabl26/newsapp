@@ -48,7 +48,7 @@ npm install
 # 1. Get your free API key from https://gnews.io/
 # 2. In the root directory (same level as package.json), create a new file named .env
 # 3. Add your API key like this:
-#    REACT_APP_NEWS_API=your_gnews_io_api_key_goes_here
+# 4. REACT_APP_NEWS_API=your_gnews_io_api_key_goes_here
 
 # Finally, start the application
 npm start
