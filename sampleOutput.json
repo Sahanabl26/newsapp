@@ -1,71 +1,160 @@
 {
-  "status": "ok",
-  "totalResults": 6,
+  "information": {
+    "realTimeArticles": {
+      "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
+    }
+  },
+  "totalArticles": 353516,
   "articles": [
     {
+      "id": "6198499f33518be4a0d7ed515205c9cb",
+      "title": "Vodafone Idea shares tank over 12% on AGR dues waiver uncertainty",
+      "description": "The Supreme Court’s order allowing the government to revisit the AGR dues applied only to the additional AGR dues from 2016-17 as per the order copy",
+      "content": "At 12 PM, Vodafone Idea shares were trading at ₹8.80 apiece on NSE, falling 5.98%.\nThe Supreme Court’s order allowing the government to review the adjusted gross revenue (AGR) dues applies only to the additional dues from 2016–17, according to the or... [2092 chars]",
+      "url": "https://upstox.com/news/market-news/stocks/vodafone-idea-shares-tank-over-11-on-agr-dues-waiver-uncertainty/article-183795/",
+      "image": "https://assets.upstox.com/content/assets/images/news/shutterstock24639308151optimized100.webp",
+      "publishedAt": "2025-10-30T06:13:23Z",
+      "lang": "en",
       "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Lisa Respers France",
-      "title": "Doechii criticizes Trump’s use of ‘military force’ against protesters - CNN",
-      "description": "The BET Awards were heavy on nostalgia, but rapper and singer Doechii brought a very current event to the stage on Monday.",
-      "url": "https://www.cnn.com/2025/06/10/entertainment/doechii-bet-awards-speech",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2219398693.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2025-06-10T14:53:00Z",
-      "content": "The BET Awards were heavy on nostalgia, but rapper and singer Doechii brought a very current event to the stage on Monday.\r\nWhile receiving the award for best female hip-hop artist, she referenced th… [+1613 chars]"
+        "id": "56cdb95a48bf4735f2cb90f3e0af5bd4",
+        "name": "Upstox",
+        "url": "https://upstox.com"
+      }
     },
     {
+      "id": "441542a9ab0c43f5e191e9f380966479",
+      "title": "China ends rare earth export freeze for 4 Indian manufacturers",
+      "description": "China’s decision to approve the rare earth magnet export applications of four India-based companies offers some relief to domestic automakers and electronics firms following months of Beijing’s export ban. Overall, about 30 applications from India are still awaiting China’s approval.",
+      "content": "The Chinese commerce ministry has approved the rare earth magnet export applications of Jay Ushin Ltd, De Diamond Electric India Pvt. Ltd, and the Indian units of German automotive component maker Continental AG and Japan’s Hitachi Astemo, according ... [3956 chars]",
+      "url": "https://www.livemint.com/auto-news/china-approves-rare-earth-exports-to-india-11761799711006.html",
+      "image": "https://www.livemint.com/lm-img/img/2025/10/30/1600x900/RAREEARTHS-PRICES-USA-CHINA-0_1760238225125_1760238240433_1761804310090.JPG",
+      "publishedAt": "2025-10-30T06:08:20Z",
+      "lang": "en",
       "source": {
-        "id": null,
-        "name": "The Conversation Africa"
-      },
-      "author": "Linggong Kong",
-      "title": "Trump–Xi call boosts Chinese president’s tough man image — and may have handed him the upper hand in future talks - The Conversation",
-      "description": "A rare Trump–Xi phone call briefly eased US–China trade tensions. But future talks may increasingly play to Xi’s advantage.",
-      "url": "https://theconversation.com/trump-xi-call-boosts-chinese-presidents-tough-man-image-and-may-have-handed-him-the-upper-hand-in-future-talks-258437",
-      "urlToImage": "https://images.theconversation.com/files/673145/original/file-20250609-56-mmmjdn.jpg?ixlib=rb-4.1.0&rect=0%2C12%2C5133%2C2554&q=45&auto=format&w=1356&h=668&fit=crop",
-      "publishedAt": "2025-06-10T12:20:58Z",
-      "content": "On June 5, U.S. President Donald Trump held a phone call with Chinese President Xi Jinping. It marked the first direct conversation between the two leaders since Trump began his second term and the f… [+7432 chars]"
+        "id": "f34a79bd093bf2e384c5d184d5929e35",
+        "name": "Mint",
+        "url": "https://www.livemint.com"
+      }
     },
     {
+      "id": "decfe049b4ac090c50c33a3c483b6564",
+      "title": "Who Is Bhoomi Shetty, the Actress Starring in Mahakali? Everything You Need to Know",
+      "description": "Latest Telugu cinema news, Movie reviews, OTT Updates, OTT reviews, Box office collections, OTT release dates, OTT, News, Prabhas, Mahesh Babu, Allu Arjun",
+      "content": "54\nMany might be wondering, while reading our latest piece on Prasanth Varma’s upcoming film Mahakali directed by Puja Aparna Kolluru, about the Kingdom actress who’s leading this female-superhero project.\nYes, it’s true – Bhoomi Shetty, who played G... [1782 chars]",
+      "url": "https://www.123telugu.com/mnews/who-is-bhoomi-shetty-the-actress-starring-in-mahakali-everything-you-need-to-know-hk.html",
+      "image": "https://cdn.123telugu.com/content/wp-content/uploads/2025/10/Bhoomi-Shetty.webp",
+      "publishedAt": "2025-10-30T06:05:00Z",
+      "lang": "en",
       "source": {
-        "id": "axios",
-        "name": "Axios"
-      },
-      "author": "Emily Peck",
-      "title": "ICE raids push the Trump immigration fight into the workplace - Axios",
-      "description": "Immigrants, documented or not, are crucial to the resurgent labor movement.",
-      "url": "https://www.axios.com/2025/06/10/ice-los-angeles-protests-immigration",
-      "urlToImage": "https://images.axios.com/kqigLgt0FfLN4-QWBgSr-EOTrWQ=/0x0:1920x1080/1366x768/2025/06/09/1749499838130.jpg",
-      "publishedAt": "2025-06-10T11:46:42Z",
-      "content": "The big picture: Immigrants, documented or not, are a crucial part of the resurgent labor movement especially at the SEIU, which organized the protests and represent a growing share of the working cl… [+2557 chars]"
+        "id": "497df550626262f125da6e77f3104ed5",
+        "name": "123telugu.com",
+        "url": "https://www.123telugu.com"
+      }
     },
     {
+      "id": "722cdbee783c93d4aad9052ea27568a8",
+      "title": "Delhiites at higher stroke risk due to pollution, say doctors",
+      "description": "As stroke cases rise across India, doctors have warned that Delhi's toxic air, high stress levels and inactive lifestyle could make its residents more vulnerable to stroke.The concern was raised at a...",
+      "content": "As stroke cases rise across India, doctors have warned that Delhi's toxic air, high stress levels and inactive lifestyle could make its residents more vulnerable to stroke.\nThe concern was raised at a World Stroke Day forum organised by Mahajan Imagi... [1916 chars]",
+      "url": "https://www.thehansindia.com/news/national/delhiites-at-higher-stroke-risk-due-to-pollution-say-doctors-1018872",
+      "image": "https://assets.thehansindia.com/h-upload/2025/10/30/1597217-pollution.jpg",
+      "publishedAt": "2025-10-30T06:02:13Z",
+      "lang": "en",
       "source": {
-        "id": null,
-        "name": "Financial Times"
-      },
-      "author": "Edward Luce",
-      "title": "Trump is coming for the ‘enemy within’ - ft.com",
-      "description": "Sending the National Guard into LA is the administration’s clearest step yet towards authoritarianism",
-      "url": "https://www.ft.com/content/3d6c915c-2d29-407b-b36d-06115712fdc5",
-      "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4090802c-c84b-4456-b934-83850ec902b7.jpg?source=next-barrier-page",
-      "publishedAt": "2025-06-10T10:00:23Z",
-      "content": "Join FT Edit\r\nOnly CA$6.49 per month\r\nAccess to eight surprising articles a day, hand-picked by FT editors. For seamless reading, access content via the FT Edit page on FT.com and receive the FT Edit… [+11 chars]"
+        "id": "116a2645295bce1ab4f5e7272581297a",
+        "name": "The Hans India",
+        "url": "https://www.thehansindia.com"
+      }
     },
     {
+      "id": "4e76f845eb58fcbc587cc5b01c9ec65b",
+      "title": "US extends Chabahar port waiver for India till April 2026",
+      "description": "The US extended India’s Chabahar Port sanctions waiver until April 2026, allowing India Ports Global to continue operations. Crucial for Afghanistan aid and Central Asia trade, the port benefits from India’s $120M investment and serves as a strategic gateway bypassing Pakistan routes.",
+      "content": "The United States has extended the sanctions waiver for the Chabahar Port project for India, providing much-needed relief to New Delhi's efforts to enhance connectivity to Central Asia and Afghanistan. The extension delays the waiver's expiry till Ap... [1363 chars]",
+      "url": "https://www.wionews.com/world/us-extends-chabahar-port-waiver-for-india-till-april-2026-1761802868048",
+      "image": "https://cdn1.wionews.com/prod/wion/images/2025/20251030/image-1761802983022.png?imwidth=1200&imheight=900",
+      "publishedAt": "2025-10-30T05:48:00Z",
+      "lang": "en",
       "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Ganesh Rao",
-      "title": "'Collateral damage': Fund managers lobby Congress over Section 899 to avert foreign investors leaving the U.S. - CNBC",
-      "description": "The Investment Company Institute says President Donald Trump's tax bill impacts most foreign investments in U.S. stocks, according to documents seen by CNBC.",
-      "url": "https://www.cnbc.com/2025/06/10/fund-managers-lobby-congress-on-section-899-to-avert-foreign-investors-exit.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108151402-1748451659982-gettyimages-2216491792-wm107194_x6zm6js1.jpeg?v=1749046879&w=1920&h=1080",
-      "publishedAt": "2025-06-10T08:19:42Z",
-      "content": "American fund managers are lobbying Congress over a provision tucked inside President Donald Trump's tax bill that they say could lead to foreign investors \"quickly\" pulling investments out of the U.… [+4410 chars]"
+        "id": "af333851843ab835a644d9950b112f1c",
+        "name": "WION",
+        "url": "https://www.wionews.com"
+      }
+    },
+    {
+      "id": "2bc27557fdf1cc18d4b1a91bd1cfc9ec",
+      "title": "Fact Check: Zoho’s Sridhar Vembu's claim that childhood vaccines are linked to rising autism rates is False",
+      "description": "Zoho founder Sridhar Vembu shared a post on X suggesting a connection between childhood vaccines and rising autism cases in India. The claim is FALSE.ClaimSridhar Vembu posted on X implying that...",
+      "content": "Zoho founder Sridhar Vembu shared a post on X suggesting a connection between childhood vaccines and rising autism cases in India. The claim is FALSE.\nClaim\nSridhar Vembu posted on X implying that childhood vaccinations are linked to an increase in a... [8926 chars]",
+      "url": "https://medicaldialogues.in/fact-check/fact-check-zohos-sridhar-vembus-claim-that-childhood-vaccines-are-linked-to-rising-autism-rates-is-false-157691",
+      "image": "https://medicaldialogues.in/h-upload/2025/10/29/306099-knee-pain.jpg",
+      "publishedAt": "2025-10-30T05:46:58Z",
+      "lang": "en",
+      "source": {
+        "id": "d15333e4666772496fc3a15b96a7a4b4",
+        "name": "Medical Dialogues",
+        "url": "https://medicaldialogues.in"
+      }
+    },
+    {
+      "id": "b6ddfa11967702da2c08572919a35273",
+      "title": "Thaw in trade ties: Trump announces cut in tariffs on China to 47% after meeting Xi; fentanyl",
+      "description": "International Business News: US President Trump and Chinese President Xi Jinping held crucial talks, leading to tariff reductions on Chinese goods and fentanyl. China will immedia",
+      "content": "US President Trump and Chinese President Xi Jinping held crucial talks, leading to tariff reductions on Chinese goods and fentanyl. China will immediately resume significant soybean purchases, signaling a potential turning point in trade relations. T... [3038 chars]",
+      "url": "https://timesofindia.indiatimes.com/business/international-business/thaw-in-trade-ties-trump-announces-cut-in-tariffs-on-china-to-47-after-meeting-xi-fentanyl-linked-duties-lowered-to-10/articleshow/124934718.cms",
+      "image": "https://static.toiimg.com/thumb/msid-124936007,width-1070,height-580,imgsize-1007429,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2025-10-30T05:40:00Z",
+      "lang": "en",
+      "source": {
+        "id": "9c931d3332c3a87c89b804230892aa64",
+        "name": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com"
+      }
+    },
+    {
+      "id": "c416f23f09ec5cf20707fa1c547eed83",
+      "title": "Want to win over Trump? Asian leaders see flattery as the magic ingredient",
+      "description": "Trump has been showered with praise and gestures of veneration throughout his five-day tour of Asia.",
+      "content": "Gyeongju, South Korea – With Donald Trump, flattery will get you everywhere.\nAt least that appears to be the attitude of leaders who have been meeting with the United States president on his first visit to East and Southeast Asia since he re-entered ... [2844 chars]",
+      "url": "https://www.aljazeera.com/news/2025/10/30/want-to-win-over-trump-asian-leaders-see-flattery-as-the-magic-ingredient",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2025/10/reuters_6902b830-1761785904_023204-1761792493.jpg?resize=1200%2C630&quality=80",
+      "publishedAt": "2025-10-30T05:37:30Z",
+      "lang": "en",
+      "source": {
+        "id": "7530d90c9af769eda4cb548f32ed381d",
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com"
+      }
+    },
+    {
+      "id": "25a7d5d86c58086abb8aa1039b4ba58c",
+      "title": "Trump cuts tariffs on China after meeting Xi in South Korea",
+      "description": "Trump announces tariff cuts on China following a successful meeting with Xi Jinping in South Korea, easing trade tensions.",
+      "content": "U.S. President Donald Trump described his face-to-face with Chinese leader Xi Jinping on Thursday (October 30, 2025) as a roaring success, saying he would cut tariffs on China, while Beijing had agreed to allow the export of rare earth elements and s... [2211 chars]",
+      "url": "https://www.thehindu.com/news/international/us-president-donald-trump-meeting-with-chinese-president-xi-jinping-trade-deal-in-busan-south-korea-at-apec-summit/article70219829.ece",
+      "image": "https://th-i.thgim.com/public/incoming/j6quot/article70219845.ece/alternates/LANDSCAPE_1200/South_Korea_China_Trump_Asia_09018.jpg",
+      "publishedAt": "2025-10-30T05:34:00Z",
+      "lang": "en",
+      "source": {
+        "id": "b186b851cfda2f4463224771573fadf2",
+        "name": "The Hindu",
+        "url": "https://www.thehindu.com"
+      }
+    },
+    {
+      "id": "739a33f4f0f3ea5283c8b2b1fe2a9260",
+      "title": "China talk; calls him 'tremendous leader'",
+      "description": "US News: US President Donald Trump said on Thursday his meeting with Chinese President Xi Jinping was a \\\"great success\\\" and announced that he will visit China .",
+      "content": "President Donald Trump, left, and Chinese President Xi Jinping, shake hands after their meeting at Gimhae International Airport in Busan, South Korea, Thursday, October 30, 2025. (AP)\nUS President Donald Trump said on Thursday his meeting with Chines... [1893 chars]",
+      "url": "https://timesofindia.indiatimes.com/world/us/meeting-with-xi-was-12-trump-rates-high-stakes-us-china-talk-calls-him-tremendous-leader/articleshow/124935196.cms",
+      "image": "https://static.toiimg.com/thumb/msid-124935862,width-1070,height-580,imgsize-636020,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2025-10-30T05:31:00Z",
+      "lang": "en",
+      "source": {
+        "id": "9c931d3332c3a87c89b804230892aa64",
+        "name": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com"
+      }
     }
   ]
 }
