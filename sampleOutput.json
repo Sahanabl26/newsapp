@@ -1,0 +1,71 @@
+{
+  "status": "ok",
+  "totalResults": 6,
+  "articles": [
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Lisa Respers France",
+      "title": "Doechii criticizes Trump’s use of ‘military force’ against protesters - CNN",
+      "description": "The BET Awards were heavy on nostalgia, but rapper and singer Doechii brought a very current event to the stage on Monday.",
+      "url": "https://www.cnn.com/2025/06/10/entertainment/doechii-bet-awards-speech",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2219398693.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2025-06-10T14:53:00Z",
+      "content": "The BET Awards were heavy on nostalgia, but rapper and singer Doechii brought a very current event to the stage on Monday.\r\nWhile receiving the award for best female hip-hop artist, she referenced th… [+1613 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Conversation Africa"
+      },
+      "author": "Linggong Kong",
+      "title": "Trump–Xi call boosts Chinese president’s tough man image — and may have handed him the upper hand in future talks - The Conversation",
+      "description": "A rare Trump–Xi phone call briefly eased US–China trade tensions. But future talks may increasingly play to Xi’s advantage.",
+      "url": "https://theconversation.com/trump-xi-call-boosts-chinese-presidents-tough-man-image-and-may-have-handed-him-the-upper-hand-in-future-talks-258437",
+      "urlToImage": "https://images.theconversation.com/files/673145/original/file-20250609-56-mmmjdn.jpg?ixlib=rb-4.1.0&rect=0%2C12%2C5133%2C2554&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2025-06-10T12:20:58Z",
+      "content": "On June 5, U.S. President Donald Trump held a phone call with Chinese President Xi Jinping. It marked the first direct conversation between the two leaders since Trump began his second term and the f… [+7432 chars]"
+    },
+    {
+      "source": {
+        "id": "axios",
+        "name": "Axios"
+      },
+      "author": "Emily Peck",
+      "title": "ICE raids push the Trump immigration fight into the workplace - Axios",
+      "description": "Immigrants, documented or not, are crucial to the resurgent labor movement.",
+      "url": "https://www.axios.com/2025/06/10/ice-los-angeles-protests-immigration",
+      "urlToImage": "https://images.axios.com/kqigLgt0FfLN4-QWBgSr-EOTrWQ=/0x0:1920x1080/1366x768/2025/06/09/1749499838130.jpg",
+      "publishedAt": "2025-06-10T11:46:42Z",
+      "content": "The big picture: Immigrants, documented or not, are a crucial part of the resurgent labor movement especially at the SEIU, which organized the protests and represent a growing share of the working cl… [+2557 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Financial Times"
+      },
+      "author": "Edward Luce",
+      "title": "Trump is coming for the ‘enemy within’ - ft.com",
+      "description": "Sending the National Guard into LA is the administration’s clearest step yet towards authoritarianism",
+      "url": "https://www.ft.com/content/3d6c915c-2d29-407b-b36d-06115712fdc5",
+      "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4090802c-c84b-4456-b934-83850ec902b7.jpg?source=next-barrier-page",
+      "publishedAt": "2025-06-10T10:00:23Z",
+      "content": "Join FT Edit\r\nOnly CA$6.49 per month\r\nAccess to eight surprising articles a day, hand-picked by FT editors. For seamless reading, access content via the FT Edit page on FT.com and receive the FT Edit… [+11 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Ganesh Rao",
+      "title": "'Collateral damage': Fund managers lobby Congress over Section 899 to avert foreign investors leaving the U.S. - CNBC",
+      "description": "The Investment Company Institute says President Donald Trump's tax bill impacts most foreign investments in U.S. stocks, according to documents seen by CNBC.",
+      "url": "https://www.cnbc.com/2025/06/10/fund-managers-lobby-congress-on-section-899-to-avert-foreign-investors-exit.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108151402-1748451659982-gettyimages-2216491792-wm107194_x6zm6js1.jpeg?v=1749046879&w=1920&h=1080",
+      "publishedAt": "2025-06-10T08:19:42Z",
+      "content": "American fund managers are lobbying Congress over a provision tucked inside President Donald Trump's tax bill that they say could lead to foreign investors \"quickly\" pulling investments out of the U.… [+4410 chars]"
+    }
+  ]
+}
