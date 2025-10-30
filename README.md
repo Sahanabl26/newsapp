@@ -2,7 +2,7 @@
 
 NewsMonkey is a dynamic news application built with React.js. It fetches the latest top headlines from the [gnews.io](https://gnews.io/) API and displays them in a clean, user-friendly interface. Users can browse news by category and enjoy a seamless infinite scrolling experience.
 
-![NewsMonkey App Screenshot](src/assets/about-image.jpg)
+![NewsMonkey App Screenshot](image.png)
 
 *(You can replace the image path above if you have a better screenshot of the app's homepage)*
 
